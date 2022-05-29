@@ -1,0 +1,5 @@
+ # print(f" {'X' if xState[0] else ('O' if yState[0] else 0)} | 1 | 2 ")
+    # print(f"---|---|---")
+    # print(f" 3 | 4 | 5 ")
+    # print(f"---|---|---")
+    # print(f" 6 | 7 | 8 ")
